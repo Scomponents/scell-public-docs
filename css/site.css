@@ -1,1 +1,7 @@
-/* You can override this file with your own styles */
+img[alt=ScellAsSolution] {
+	width: 420px;
+}
+
+.hljs {
+	background-color: #2b2b2b!important;
+}
