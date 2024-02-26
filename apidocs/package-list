@@ -22,12 +22,14 @@ com.intechcore.scomponents.scell.api.spreadsheet.model.data
 com.intechcore.scomponents.scell.api.spreadsheet.model.data.value
 com.intechcore.scomponents.scell.api.spreadsheet.model.drawing
 com.intechcore.scomponents.scell.api.spreadsheet.model.events
+com.intechcore.scomponents.scell.api.spreadsheet.model.formulas
 com.intechcore.scomponents.scell.api.spreadsheet.model.protection
 com.intechcore.scomponents.scell.api.spreadsheet.model.style
 com.intechcore.scomponents.scell.api.spreadsheet.model.style.border
 com.intechcore.scomponents.scell.api.spreadsheet.model.style.font
 com.intechcore.scomponents.scell.api.spreadsheet.service
 com.intechcore.scomponents.scell.api.spreadsheet.service.builder
+com.intechcore.scomponents.scell.api.spreadsheet.service.formula
 com.intechcore.scomponents.scell.api.spreadsheet.service.search
 com.intechcore.scomponents.scell.api.spreadsheet.service.structure
 com.intechcore.scomponents.scell.api.spreadsheet.service.util
