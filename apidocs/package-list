@@ -1,6 +1,7 @@
 com.intechcore.scomponents.scell.api
 com.intechcore.scomponents.scell.api.exceptions
 com.intechcore.scomponents.scell.api.fx
+com.intechcore.scomponents.scell.api.fx.clipboard
 com.intechcore.scomponents.scell.api.fx.control
 com.intechcore.scomponents.scell.api.fx.events
 com.intechcore.scomponents.scell.api.fx.model
@@ -21,7 +22,6 @@ com.intechcore.scomponents.scell.api.spreadsheet.model.address
 com.intechcore.scomponents.scell.api.spreadsheet.model.data
 com.intechcore.scomponents.scell.api.spreadsheet.model.data.value
 com.intechcore.scomponents.scell.api.spreadsheet.model.drawing
-com.intechcore.scomponents.scell.api.spreadsheet.model.events
 com.intechcore.scomponents.scell.api.spreadsheet.model.formulas
 com.intechcore.scomponents.scell.api.spreadsheet.model.protection
 com.intechcore.scomponents.scell.api.spreadsheet.model.style
