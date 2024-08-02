@@ -4,6 +4,7 @@ com.intechcore.scomponents.scell.api.fx
 com.intechcore.scomponents.scell.api.fx.clipboard
 com.intechcore.scomponents.scell.api.fx.control
 com.intechcore.scomponents.scell.api.fx.events
+com.intechcore.scomponents.scell.api.fx.events.listeners.layout
 com.intechcore.scomponents.scell.api.fx.model
 com.intechcore.scomponents.scell.api.init
 com.intechcore.scomponents.scell.api.spreadsheet
