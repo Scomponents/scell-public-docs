@@ -3,6 +3,9 @@ com.intechcore.scomponents.scell.api.exceptions
 com.intechcore.scomponents.scell.api.fx
 com.intechcore.scomponents.scell.api.fx.clipboard
 com.intechcore.scomponents.scell.api.fx.control
+com.intechcore.scomponents.scell.api.fx.control.comparator
+com.intechcore.scomponents.scell.api.fx.control.custom.textinput
+com.intechcore.scomponents.scell.api.fx.control.protection
 com.intechcore.scomponents.scell.api.fx.events
 com.intechcore.scomponents.scell.api.fx.events.listeners.layout
 com.intechcore.scomponents.scell.api.fx.model
@@ -17,6 +20,7 @@ com.intechcore.scomponents.scell.api.spreadsheet.events.listeners.structure
 com.intechcore.scomponents.scell.api.spreadsheet.events.listeners.undo
 com.intechcore.scomponents.scell.api.spreadsheet.events.listeners.vector
 com.intechcore.scomponents.scell.api.spreadsheet.events.requests
+com.intechcore.scomponents.scell.api.spreadsheet.events.requests.structure
 com.intechcore.scomponents.scell.api.spreadsheet.fetch
 com.intechcore.scomponents.scell.api.spreadsheet.model
 com.intechcore.scomponents.scell.api.spreadsheet.model.address
