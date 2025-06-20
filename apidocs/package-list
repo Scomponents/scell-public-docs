@@ -4,10 +4,12 @@ com.intechcore.scomponents.scell.api.fx
 com.intechcore.scomponents.scell.api.fx.clipboard
 com.intechcore.scomponents.scell.api.fx.control
 com.intechcore.scomponents.scell.api.fx.control.comparator
+com.intechcore.scomponents.scell.api.fx.control.custom.svgnode
 com.intechcore.scomponents.scell.api.fx.control.custom.textinput
 com.intechcore.scomponents.scell.api.fx.control.protection
 com.intechcore.scomponents.scell.api.fx.events
 com.intechcore.scomponents.scell.api.fx.events.listeners.layout
+com.intechcore.scomponents.scell.api.fx.events.requests
 com.intechcore.scomponents.scell.api.fx.model
 com.intechcore.scomponents.scell.api.init
 com.intechcore.scomponents.scell.api.spreadsheet
@@ -31,6 +33,7 @@ com.intechcore.scomponents.scell.api.spreadsheet.model.formulas
 com.intechcore.scomponents.scell.api.spreadsheet.model.protection
 com.intechcore.scomponents.scell.api.spreadsheet.model.style
 com.intechcore.scomponents.scell.api.spreadsheet.model.style.border
+com.intechcore.scomponents.scell.api.spreadsheet.model.style.fill
 com.intechcore.scomponents.scell.api.spreadsheet.model.style.font
 com.intechcore.scomponents.scell.api.spreadsheet.service
 com.intechcore.scomponents.scell.api.spreadsheet.service.builder
