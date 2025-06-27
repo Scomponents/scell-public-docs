@@ -5,3 +5,24 @@ img[alt=ScellAsSolution] {
 .hljs {
 	background-color: #2b2b2b!important;
 }
+
+pre code.hljs {
+    display: inline-block!important;
+    padding: 1px 0 0 0!important;
+}
+
+pre li {
+    background: #2b2b2b!important;
+    line-height: 13px!important;
+    color: #b2a64a;
+}
+
+pre.prettyprint {
+    background: #2b2b2b!important;
+}
+
+ol.linenums {
+    margin-top: 4px;
+    margin-left: 32px;
+    padding-left:2px!important;
+}
